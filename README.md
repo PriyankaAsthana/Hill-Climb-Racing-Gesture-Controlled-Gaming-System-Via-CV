@@ -39,7 +39,6 @@ The goal was not just gesture detection, but building a **robust end-to-end inte
 
 ## 🧠 System Pipeline (High-Level)
 
-```text
 Camera Input
    ↓
 Hand Landmark Detection
@@ -53,7 +52,7 @@ OS-Level Input Injection
 Game / Emulator Control
 This pipeline is designed to be modular, extensible, and hardware-aware, making it suitable for experimentation with other applications beyond gaming.
 
-✨ Key Features
+## ✨ Key Features
 Feature	Description
 ✋ Real-Time Hand Tracking	Tracks hand landmarks live using MediaPipe via CVZone
 🎯 Gesture-Based Control	Interprets finger states (open palm, fist) into actions
@@ -62,9 +61,10 @@ Feature	Description
 ⚡ Low Latency Pipeline	Designed for smooth real-time interaction
 🧪 Experiment-Friendly	Easy to extend with new gestures or applications
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,opencv,git,vscode&theme=dark" /> </p>
-Core Technologies
+
+## Core Technologies
 
 Python 3.10
 
@@ -76,7 +76,7 @@ CVZone – abstraction over MediaPipe for gesture handling
 
 pynput – OS-level keyboard event simulation
 
-🧭 System Architecture
+## 🧭 System Architecture
 mermaid
 Copy code
 graph TD
@@ -86,7 +86,8 @@ graph TD
     D --> E[Keyboard Event Mapping]
     E --> F[OS-Level Input]
     F --> G[Game / Emulator]
-🚀 Getting Started
+    
+## 🚀 Getting Started
 1️⃣ Clone the Repository
 bash
 Copy code
@@ -107,13 +108,13 @@ Copy code
 python gesture_control_hill_climb.py
 ⚠️ Make sure the game/emulator window is in focus while running the script.
 
-🧪 Gesture Mapping (Current)
+## 🧪 Gesture Mapping (Current)
 Gesture	Action
 ✊ Fist	Move Left
 🖐 Open Palm	Move Right
 Other / No Hand	Neutral
 
-🧩 Challenges & Learnings
+## 🧩 Challenges & Learnings
 Managing real-time latency in vision pipelines
 
 Handling gesture noise and lighting variability
@@ -126,7 +127,7 @@ Designing intuitive human–machine interaction loops
 
 This project reinforced that debugging and integration are where real learning happens.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 🔁 Gesture smoothing & confidence thresholds
 
 🎯 Separate acceleration / braking gestures
@@ -137,7 +138,7 @@ This project reinforced that debugging and integration are where real learning h
 
 🕶 Extension to AR/VR or assistive interfaces
 
-👩‍💻 Author
+## 👩‍💻 Author
 Priyanka Asthana
 🎓 B.Tech (Hons) CSE | Minor in Robotics
 📍 India
