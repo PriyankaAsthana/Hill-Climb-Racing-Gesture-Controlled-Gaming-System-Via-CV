@@ -64,21 +64,19 @@ Feature	Description
 ## 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,opencv,git,vscode&theme=dark" /> </p>
 
-## Core Technologies
+## 🧰 Core Technologies
 
-Python 3.10
+- **Python 3.10**
+- **OpenCV** – video capture and frame processing
+- **MediaPipe** – hand landmark detection
+- **CVZone** – abstraction over MediaPipe for gesture handling
+- **pynput** – OS-level keyboard event simulation
 
-OpenCV – video capture and frame processing
-
-MediaPipe – hand landmark detection
-
-CVZone – abstraction over MediaPipe for gesture handling
-
-pynput – OS-level keyboard event simulation
+---
 
 ## 🧭 System Architecture
-mermaid
-Copy code
+
+```mermaid
 graph TD
     A[Webcam Input] --> B[OpenCV Frame Processing]
     B --> C[MediaPipe Hand Landmarks]
@@ -86,6 +84,7 @@ graph TD
     D --> E[Keyboard Event Mapping]
     E --> F[OS-Level Input]
     F --> G[Game / Emulator]
+```
     
 ## 🚀 Getting Started
 1️⃣ Clone the Repository
