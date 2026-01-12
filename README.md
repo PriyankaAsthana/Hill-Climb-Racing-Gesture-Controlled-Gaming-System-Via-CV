@@ -13,12 +13,15 @@
 
 ---
 
-## 🎥 Project Demo & Video Walkthrough (Start Here)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1n1DkBDAvkCLE8fobbYNXY2D03a9xQW2f/view?usp=sharing)
+## 🎥 Project Demo & Video Walkthrough
 <p align="center">
-  <a>
-    <img src="https://img.shields.io/badge/▶%20Watch%20Full%20Project%20Demo-red?style=for-the-badge&logo=youtube"/>
+  <a href="https://drive.google.com/file/d/1n1DkBDAvkCLE8fobbYNXY2D03a9xQW2f/view?usp=sharing">
+    <img src="assets/demo_preview.png" width="700" alt="Watch Project Demo"/>
   </a>
+</p>
+
+<p align="center">
+  <sub><i>Click to watch the full demo and walkthrough</i></sub>
 </p>
 
 <p align="center">
