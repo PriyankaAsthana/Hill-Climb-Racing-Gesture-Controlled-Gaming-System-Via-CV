@@ -87,57 +87,34 @@ graph TD
 ```
     
 ## 🚀 Getting Started
-1️⃣ Clone the Repository
+<p>1️⃣ Clone the Repository
 bash
 Copy code
 git clone https://github.com/YOUR_USERNAME/gesture-controlled-game-interface.git
-cd gesture-controlled-game-interface
-2️⃣ Create Virtual Environment
+cd gesture-controlled-game-interface</p><br>
+<p>2️⃣ Create Virtual Environment
 bash
 Copy code
 python -m venv venv
-venv\Scripts\Activate   # Windows
-3️⃣ Install Dependencies
+venv\Scripts\Activate   # Windows </p><br>
+<p>3️⃣ Install Dependencies
 bash
 Copy code
-pip install -r requirements.txt
-4️⃣ Run the Project
+pip install -r requirements.txt</p><br>
+<p>4️⃣ Run the Project
 bash
 Copy code
-python gesture_control_hill_climb.py
+python gesture_control_hill_climb.py</p><br>
 ⚠️ Make sure the game/emulator window is in focus while running the script.
 
 ## 🧪 Gesture Mapping (Current)
-Gesture	Action
-✊ Fist	Move Left
-🖐 Open Palm	Move Right
-Other / No Hand	Neutral
+<p>Gesture	Action </p><br>
+<p>✊ Fist	Move Left</p><br>
+<p>🖐 Open Palm	Move Right</p><br>
+<p>Other / No Hand	Neutral</p><br>
 
-## 🧩 Challenges & Learnings
-Managing real-time latency in vision pipelines
-
-Handling gesture noise and lighting variability
-
-Debugging Python version & dependency conflicts
-
-Understanding limitations of deployability for hardware-dependent CV systems
-
-Designing intuitive human–machine interaction loops
-
-This project reinforced that debugging and integration are where real learning happens.
-
-## 🔮 Future Enhancements
-🔁 Gesture smoothing & confidence thresholds
-
-🎯 Separate acceleration / braking gestures
-
-📊 On-screen gesture feedback
-
-🧠 Gesture learning using ML classifiers
-
-🕶 Extension to AR/VR or assistive interfaces
 
 ## 👩‍💻 Author
 Priyanka Asthana
-🎓 B.Tech (Hons) CSE | Minor in Robotics
-📍 India
+<p>🎓 B.Tech (Hons) CSE | Minor in Robotics</p><br>
+<p>📍 India</p><br>
