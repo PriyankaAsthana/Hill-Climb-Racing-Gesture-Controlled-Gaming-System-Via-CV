@@ -109,7 +109,7 @@ python gesture_control_hill_climb.py</p>
 
 ## 🧪 Gesture Mapping (Current)
 <p>Gesture	Action </p>
-<p>✊ Fist	Move Left 🖐 Open Palm	Move Right</p>
+<p>✊ Fist	Breaks 🖐 Open Palm	 Accelerate</p>
 <p>Other / No Hand	Neutral</p>
 
 
