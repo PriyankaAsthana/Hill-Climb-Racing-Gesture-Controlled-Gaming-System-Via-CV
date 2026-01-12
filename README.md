@@ -14,10 +14,9 @@
 ---
 
 ## 🎥 Project Demo & Video Walkthrough (Start Here)
-
+[![Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1n1DkBDAvkCLE8fobbYNXY2D03a9xQW2f/view?usp=sharing)
 <p align="center">
   <a>
-    [![Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1n1DkBDAvkCLE8fobbYNXY2D03a9xQW2f/view?usp=sharing) 
     <img src="https://img.shields.io/badge/▶%20Watch%20Full%20Project%20Demo-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
