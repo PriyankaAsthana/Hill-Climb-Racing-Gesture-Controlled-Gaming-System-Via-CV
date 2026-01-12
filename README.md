@@ -90,7 +90,7 @@ graph TD
 <p>1️⃣ Clone the Repository
 bash
 Copy code
-git clone https://github.com/YOUR_USERNAME/gesture-controlled-game-interface.git
+git clone https://github.com/PriyankaAsthana/Hill-Climb-Racing-Gesture-Controlled-Gaming-System-Via-CV.git
 cd gesture-controlled-game-interface</p>
 <p>2️⃣ Create Virtual Environment
 bash
