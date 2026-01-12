@@ -91,27 +91,27 @@ graph TD
 bash
 Copy code
 git clone https://github.com/YOUR_USERNAME/gesture-controlled-game-interface.git
-cd gesture-controlled-game-interface</p><br>
+cd gesture-controlled-game-interface</p>
 <p>2️⃣ Create Virtual Environment
 bash
 Copy code
 python -m venv venv
-venv\Scripts\Activate   # Windows </p><br>
+venv\Scripts\Activate   # Windows </p>
 <p>3️⃣ Install Dependencies
 bash
 Copy code
-pip install -r requirements.txt</p><br>
+pip install -r requirements.txt</p>
 <p>4️⃣ Run the Project
 bash
 Copy code
-python gesture_control_hill_climb.py</p><br>
+python gesture_control_hill_climb.py</p>
 ⚠️ Make sure the game/emulator window is in focus while running the script.
 
 ## 🧪 Gesture Mapping (Current)
-<p>Gesture	Action </p><br>
-<p>✊ Fist	Move Left</p><br>
-<p>🖐 Open Palm	Move Right</p><br>
-<p>Other / No Hand	Neutral</p><br>
+<p>Gesture	Action </p>
+<p>✊ Fist	Move Left</p>
+<p>🖐 Open Palm	Move Right</p>
+<p>Other / No Hand	Neutral</p>
 
 
 ## 👩‍💻 Author
