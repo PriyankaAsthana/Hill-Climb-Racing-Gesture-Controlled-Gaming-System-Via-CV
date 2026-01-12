@@ -116,5 +116,5 @@ python gesture_control_hill_climb.py</p><br>
 
 ## 👩‍💻 Author
 Priyanka Asthana
-<p>🎓 B.Tech (Hons) CSE | Minor in Robotics</p><br>
-<p>📍 India</p><br>
+<p>🎓 B.Tech (Hons) CSE | Minor in Robotics</p>
+<p>📍 India</p>
