@@ -16,7 +16,7 @@
 ## 🎥 Project Demo & Video Walkthrough
 <p align="center">
   <a href="https://drive.google.com/file/d/1n1DkBDAvkCLE8fobbYNXY2D03a9xQW2f/view?usp=sharing">
-    <img src="Hill_climb.png" width="700" alt="Watch Project Demo"/>
+    <img src="Hill_climb.jpg" width="700" alt="Watch Project Demo"/>
   </a>
 </p>
 
