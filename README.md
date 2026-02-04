@@ -1,5 +1,5 @@
 <!-- Gesture-Controlled Game Interface README -->
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=✋🎮+Gesture-Controlled+Game+Interface+using+Computer+Vision;Real-Time+Human–Computer+Interaction+System;OpenCV+%7C+MediaPipe+%7C+Python" alt="Typing Animation" />
 </p>
